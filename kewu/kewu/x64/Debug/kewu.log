@@ -1,0 +1,9 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(kewu.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  FileName.cpp
+C:\Users\王华\source\repos\kewu\kewu\FileName.cpp(50,9): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+      C:\Users\王华\source\repos\kewu\kewu\FileName.cpp(50,9):
+      之前在命令行上声明的“_CRT_SECURE_NO_WARNINGS”
+  
+C:\Users\王华\source\repos\kewu\kewu\FileName.cpp(1052,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\王华\source\repos\kewu\kewu\FileName.cpp(2037,23): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  kewu.vcxproj -> C:\Users\王华\source\repos\kewu\x64\Debug\汪华的OJ之旅.exe
